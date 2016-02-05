@@ -1,0 +1,38 @@
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\bin\Debug\VizLab2.exe.config
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\bin\Debug\VizLab2.exe
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\bin\Debug\VizLab2.pdb
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\bin\Debug\MeshLoader.dll
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\bin\Debug\MeshLoader.pdb
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\obj\Debug\VizLab2.csprojResolveAssemblyReference.cache
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\obj\Debug\VizLab2.Form1.resources
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\obj\Debug\VizLab2.Properties.Resources.resources
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\obj\Debug\VizLab2.csproj.GenerateResource.Cache
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\obj\Debug\VizLab2.exe
+c:\users\sigma\documents\visual studio 2012\Projects\VizLab2\VizLab2\obj\Debug\VizLab2.pdb
+C:\Users\SiGMA\Documents\Visual Studio 2012\Projects\VizLab2\VizLab2\bin\Debug\Tao.OpenGl.dll
+C:\Users\SiGMA\Documents\Visual Studio 2012\Projects\VizLab2\VizLab2\bin\Debug\Tao.OpenGl.xml
+C:\Users\aliabdat\Desktop\task 3\VizLab2\bin\Debug\VizLab2.exe.config
+C:\Users\aliabdat\Desktop\task 3\VizLab2\obj\Debug\VizLab2.exe
+C:\Users\aliabdat\Desktop\task 3\VizLab2\obj\Debug\VizLab2.pdb
+C:\Users\aliabdat\Desktop\task 3\VizLab2\obj\Debug\VizLab2.csprojResolveAssemblyReference.cache
+C:\Users\aliabdat\Desktop\task 3\VizLab2\obj\Debug\VizLab2.Form1.resources
+C:\Users\aliabdat\Desktop\task 3\VizLab2\obj\Debug\VizLab2.Properties.Resources.resources
+C:\Users\aliabdat\Desktop\task 3\VizLab2\obj\Debug\VizLab2.csproj.GenerateResource.Cache
+C:\Users\aliabdat\Desktop\task 3\VizLab2\bin\Debug\VizLab2.exe
+C:\Users\aliabdat\Desktop\task 3\VizLab2\bin\Debug\VizLab2.pdb
+C:\Users\aliabdat\Desktop\task 3\VizLab2\bin\Debug\MeshLoader.pdb
+F:\sigma\vizlab2\VizLab2\bin\Debug\VizLab2.exe.config
+F:\sigma\vizlab2\VizLab2\obj\Debug\VizLab2.exe
+F:\sigma\vizlab2\VizLab2\obj\Debug\VizLab2.pdb
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\bin\Debug\VizLab2.exe.config
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\obj\Debug\VizLab2.exe
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\obj\Debug\VizLab2.pdb
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\bin\Debug\VizLab2.exe
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\bin\Debug\VizLab2.pdb
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\bin\Debug\MeshLoader.pdb
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\obj\Debug\VizLab2.csprojResolveAssemblyReference.cache
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\obj\Debug\VizLab2.Form1.resources
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\obj\Debug\VizLab2.Properties.Resources.resources
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\obj\Debug\VizLab2.csproj.GenerateResource.Cache
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\bin\Debug\Tao.OpenGl.dll
+D:\FCIS\4th Year\1st Semester\Scientific & Statistical Visualization\vizlab2\VizLab2\bin\Debug\Tao.OpenGl.xml
